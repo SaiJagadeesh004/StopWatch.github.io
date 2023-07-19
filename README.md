@@ -11,3 +11,5 @@ Stop Watch project
 9. The project employs JavaScript functions to control the stopwatch's behavior, making it modular and easy to maintain.
 10. The stopwatch project demonstrates the power of front-end web development, combining HTML, CSS, and JavaScript to create a practical and interactive timing tool.
 11. <!------------Thank You----------------------!>
+
+Click this link to uses stopwatch : https://stopwatch-c58e6c.netlify.app 
